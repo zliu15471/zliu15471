@@ -6,7 +6,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Looking for jobs of Data Science
+- 🤔 &nbsp; Looking for a job of Data Science
 - 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science; Obtaining PhD degree of Civil Engineering at University of Bristol.
 - 🌱 &nbsp; Learning Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras.
 - 💼 &nbsp; Developing Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
