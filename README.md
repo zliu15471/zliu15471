@@ -7,7 +7,7 @@ Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Looking for a job of Data Science
-- 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science; 
+- 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science.
 - 🌱 &nbsp; Learning Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras.
 - 💼 &nbsp; Developing Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
 - ✍️ &nbsp; Working on a project using deep learning methods, including a convolutional neural network (CNN) and a recurrent neural network (RNN), to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images.
