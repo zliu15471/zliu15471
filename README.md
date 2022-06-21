@@ -2,7 +2,7 @@
 
 <h2> :smiley: Zhen's GitHub Profile :smile:</h2>
 
-- &nbsp; Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is passionate about writing code, solving problems, and building deep learning and machine learning models.
+&nbsp; Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is passionate about writing code, solving problems, and building deep learning and machine learning models.
 
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
