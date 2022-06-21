@@ -37,7 +37,7 @@ Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is
 <br/>
 
 <a href="https://github.com/zliu15471">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zliu15471&theme=buefy&show_icons=true" />
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=zliu15471&theme=buefy&show_icons=true" />
 </a>
 
 <br/>
