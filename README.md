@@ -7,7 +7,8 @@ Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Looking for a job of Data Science
-- 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science; Obtaining PhD degree of Civil Engineering at University of Bristol.
+- 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science![image](https://user-images.githubusercontent.com/103648207/174860039-9db977b8-b166-4e73-842c-abbc11da0b80.png)
+; Obtaining PhD degree of Civil Engineering at University of Bristol.
 - 🌱 &nbsp; Learning Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras.
 - 💼 &nbsp; Developing Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
 - ✍️ &nbsp; Working on a project using deep learning methods, including a convolutional neural network (CNN) and a recurrent neural network (RNN), to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images.
