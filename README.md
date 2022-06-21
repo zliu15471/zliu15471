@@ -43,7 +43,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zhen-liu-590a24224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Zhen%Liu%20Singh-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/zhen-liu-590a24224/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:zhen15471@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zhen15471@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
