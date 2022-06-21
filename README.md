@@ -1,4 +1,4 @@
-:basketball:   :swimmer:   :pisces:
+:basketball:       :swimmer:       :pisces:
 
 <h2> Hey there! I'm Zhen.</h2>
 
