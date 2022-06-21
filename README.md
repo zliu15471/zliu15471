@@ -1,6 +1,6 @@
 :basketball:       :swimmer:       :pisces:
 
-<h2> Hey there! I'm Zhen.</h2>
+<h2> :smiley: Zhen Liu's GitHub Profile :smile:</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
