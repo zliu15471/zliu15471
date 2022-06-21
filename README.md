@@ -1,4 +1,3 @@
-:basketball:       :swimmer:       :pisces:
 
 <h2> :smiley: Zhen's GitHub Profile :smile:</h2>
 
