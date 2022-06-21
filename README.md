@@ -16,7 +16,7 @@ Hey there, my name is Zhen Liu . I'm a data science student from Le Wagon who is
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Python | 3DEC| MATLAB
+  Python | 3DEC | MATLAB
   
 - 🌐 &nbsp;
   Streamlit | Google Cloud Platform | ML Flow | Heroku | Docker
