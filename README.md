@@ -1,6 +1,7 @@
 
 <h2> :smiley: Zhen's GitHub Profile :smile:</h2> 
-Portfolio: [troopl.com/zhen15471]
+My Portfolio: ([troopl.com/zhen15471](https://troopl.com/zhen15471))
+
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science.
