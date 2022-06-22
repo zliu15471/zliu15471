@@ -7,22 +7,18 @@ My Portfolio: (https://troopl.com/zhen15471)
 - 🎓 &nbsp; Finishing 9-week full-time intensive coding bootcamp to learn Data Science.
 - 🌱 &nbsp; Learning Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras.
 - 💼 &nbsp; Developing Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
-- ✍️ &nbsp; Working on a project using deep learning methods, including a convolutional neural network (CNN) and a recurrent neural network (RNN), to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images.
+- ✍️ &nbsp; Working on a project using deep learning methods to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
-  Python | 3DEC | MATLAB
+  Python | 3DEC | MATLAB | GitHub
   
 - 🌐 &nbsp;
   Streamlit | Google Cloud Platform | ML Flow | Heroku | Docker
 
 - 🛢 &nbsp;
   MySQL | BigQuery
-  
-- ⚙️ &nbsp;
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   
 - 🔧 &nbsp;
   Visual Studio Code | Jupyter Notebook | Google Colab | Google Vertex AI
