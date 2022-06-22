@@ -1,6 +1,6 @@
 
 <h2> :smiley: Zhen's GitHub Profile :smile:</h2> 
-My Portfolio: ([troopl.com/zhen15471](https://troopl.com/zhen15471))
+My Portfolio: (https://troopl.com/zhen15471))
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
