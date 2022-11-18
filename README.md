@@ -4,10 +4,10 @@ My Portfolio: (https://troopl.com/zhen15471)
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🎓 &nbsp; Finishing 10-week full-time intensive coding bootcamp to learn Data Science.
+- 🎓 &nbsp; Finishing 10-week full-time intensive coding bootcamp to learn Data Science and currently studying a MSc in data science.
 - 🌱 &nbsp; Learning Machine Learning with Scikit-learn; Deep Learning with TensorFlow Keras.
 - 💼 &nbsp; Developing Data Products with Google Cloud Platform, ML Flow, Flask, Heroku and Streamlit.
-- ✍️ &nbsp; Working on a project using deep learning methods to complete the image captioning and then combined an open API called GPT-3 to generate beautiful poetry according to information gathered from images.
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
